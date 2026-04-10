@@ -1,6 +1,6 @@
 cask "deckard" do
-  version "0.19.0"
-  sha256 "27f4a27dda348cbb408840d1149b793a7b50ef22d40762d6be6df806289e23f5"
+  version "0.20.0"
+  sha256 "4ef3c7eac69751d87817c6a0d932a6cd9beeea0da282233a592d284943d8a2a8"
 
   url "https://github.com/gi11es/deckard/releases/download/v#{version}/Deckard-#{version}.dmg"
   name "Deckard"
