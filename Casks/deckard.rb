@@ -7,7 +7,7 @@ cask "deckard" do
   desc "A terminal built for Claude Code"
   homepage "https://github.com/gi11es/deckard"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Deckard.app"
 
